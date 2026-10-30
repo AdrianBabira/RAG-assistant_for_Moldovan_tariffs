@@ -1,0 +1,16 @@
+Operator,Subscription,Price,National minutes/SMS,International minutes,Internet (GB),Roaming EU (GB)
+Orange,One 170,119,450,0,20,13.29
+Orange,One 220,154,unlimited,50,60,17.20
+Orange,One 300,165,unlimited,50,100,23.45
+Orange,One 400,200,unlimited,100,unlimited,31.27
+Orange,Junior 90,90,300,0,7,7.04
+Orange,Senior 80,80,200,0,6,6.25
+Moldcell,Lumo 170,110,600,0,25,14
+Moldcell,Lumo 220,120,unlimited,50,60,18
+Moldcell,Lumo 290,160,unlimited,50,100,23
+Moldcell,Lumo 390,195,unlimited,100,200,31
+Moldcell,Lumo 100,100,500,0,10,8
+Moldtelecom,Start 5G,120,600,0,unlimited,13.3
+Moldtelecom,Pro 5G,150,unlimited,50,unlimited,16.43
+Moldtelecom,Plus 5G,220,unlimited,100,unlimited,22.68
+Moldtelecom,Max 5G,280,unlimited,200,unlimited,30.51
